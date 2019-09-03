@@ -9,6 +9,7 @@ end
 def add_element_to_end_of_array(array, element)
   ["test 1", "test 2"]
   add_element_to_end_of_array.push("hi")
+  p add_element_to_end_of_array
 end
 
 def add_element_to_start_of_array(array, element)
